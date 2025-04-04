@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17f2da9d52480bb48ae9d04b5a35fcae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Checker Materials/Yellow_Check.mat
+  uploadId: 662546

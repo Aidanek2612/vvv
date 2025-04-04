@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b29d7733ebc065c4c95fca3fc5d7e4f2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Input Event System/Content/InputActionsManager.prefab
+  uploadId: 662546

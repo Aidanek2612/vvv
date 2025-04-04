@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29b159b14174343409e1813704e1c2db
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Textures/Misc/Skybox_Mat_01.mat
+  uploadId: 662546

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9eac65047898abc47af3532b1ffdc73e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Tile Materials/Mat_Tile_Blue.mat
+  uploadId: 662546

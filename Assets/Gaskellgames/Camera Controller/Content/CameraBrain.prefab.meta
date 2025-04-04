@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e4d31e948cf516b4ab14f13b83d5b1cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Camera Controller/Content/CameraBrain.prefab
+  uploadId: 662546

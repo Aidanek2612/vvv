@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4eda84c1a27ec6846a9e3012810938fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Basic Materials/Pink.mat
+  uploadId: 662546

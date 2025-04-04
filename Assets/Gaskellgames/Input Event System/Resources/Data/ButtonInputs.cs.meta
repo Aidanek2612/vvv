@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 1aed27987cd2c584684dcf46be6df5a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Input Event System/Resources/Data/ButtonInputs.cs
+  uploadId: 662546

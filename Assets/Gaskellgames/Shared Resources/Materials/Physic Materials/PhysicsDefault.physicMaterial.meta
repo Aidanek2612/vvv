@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 140849d3af8f594499b25d2b239d5744
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Physic Materials/PhysicsDefault.physicMaterial
+  uploadId: 662546

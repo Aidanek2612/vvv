@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0b544e3cdb7f12c4480e9d1e85b227dc
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Camera Controller/Content/CameraTriggerZone.prefab
+  uploadId: 662546

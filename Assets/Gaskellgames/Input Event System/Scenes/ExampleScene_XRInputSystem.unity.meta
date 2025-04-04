@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9627852b27580474f9d28b4435650ffd
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Input Event System/Scenes/ExampleScene_XRInputSystem.unity
+  uploadId: 662546

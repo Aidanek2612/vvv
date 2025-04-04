@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 982064384accf5e4f92ee8e7150189e1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 13400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Physic Materials/FrictionZero.physicMaterial
+  uploadId: 662546

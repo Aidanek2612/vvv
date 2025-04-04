@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86a494abde1e4174b8737b69d5b962ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Glowing Materials/Red.mat
+  uploadId: 662546

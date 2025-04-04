@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f08f80291d03b404886fc133a73d6b2a
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Camera Controller/Content/CameraTrack.prefab
+  uploadId: 662546

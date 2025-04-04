@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb2c5d40d4b3fb8459c85d330467eefd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Camera Controller/Content/CameraRig.prefab
+  uploadId: 662546

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 855d7bc295cfba14f8f3c77acf7628ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Shared Resources/Materials/Basic Materials/Cyan.mat
+  uploadId: 662546

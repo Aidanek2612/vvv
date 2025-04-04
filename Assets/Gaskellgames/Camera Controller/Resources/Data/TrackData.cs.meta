@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a177a6e102273f245b4785edc6b0660e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Camera Controller/Resources/Data/TrackData.cs
+  uploadId: 662546

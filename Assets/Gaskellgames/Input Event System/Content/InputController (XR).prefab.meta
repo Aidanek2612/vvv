@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 27f62abf990119d40a143b1b6a5bfa3d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 248116
+  packageName: Camera Controller - Gaskellgames
+  packageVersion: 1.4.8
+  assetPath: Assets/Gaskellgames/Input Event System/Content/InputController (XR).prefab
+  uploadId: 662546
